@@ -3,7 +3,7 @@
 1) Use `git clone` to clone the repository.
 2) Install required dependencies with `npm install`.
 3) Run the server with `npm start`.
-### [Click here to run Live demo](https://nytimes-aejaz1995.vercel.app/)
+
 
 ![Toggl Track](https://static01.nyt.com/vi-assets/images/share/1200x675_nameplate.png)
 
@@ -13,34 +13,10 @@
 The project statement given to us was to create a  dynamic clone of The New York Times web app. It is an American daily newspaper based in New York City with a worldwide readership. 
 
 
-------------------- **TEAM MEMBERS** --------------------
+------------------- **TEAM MEMBER** --------------------
 
-1.) Lokesh [Github profile](https://github.com/lokeshnimje)
+1.) Giuseppe [Github profile](https://github.com/Giuseppe99a)
 
-2.) Aejaz [Github profile](https://github.com/aejaz1995)
-
-3.) Suraj [Github profile](https://github.com/suraj588)
-
-3.) Rakesh [GitHub profile](https://github.com/Rakesh-Thampy/)
-
-
------------------ **Comaprison of Original and cloned page** --------------
-
-
-> Screenshot for Original and Cloned News Page.
-![Original Web app homepage](https://github.com/lokeshnimje/Pentane/blob/main/screenshot/politic_O.png)  ![Cloned Web app homepage](https://github.com/lokeshnimje/Pentane/blob/main/screenshot/politic_S.png)
-
-
-
-> Screenshot for Original and Cloned Search page.
-
-![Original project page](https://github.com/lokeshnimje/Pentane/blob/main/screenshot/search_O.png)  ![Cloned project page](https://github.com/lokeshnimje/Pentane/blob/main/screenshot/search_S.png)
-
-
-
-> Screenshot for Original and Cloned Footer page.
-
-![Original Insight page](https://github.com/lokeshnimje/Pentane/blob/main/screenshot/footer_O.png)  ![Cloned Insight page](https://github.com/lokeshnimje/Pentane/blob/main/screenshot/footer_S.png)
 
 
 
